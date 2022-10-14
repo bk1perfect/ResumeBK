@@ -3222,8 +3222,8 @@ input, select, textarea {
 	border-radius: 5px;
 	font-family: 'Montserrat', sans-serif;
 	color: hsl(0, 0%, 100%);
-	font-size: 20px;
-	padding: 5px 10px 5px 10px;
+	font-size: 14px;
+	padding: 4px 8px 4px 8px;
 	text-decoration: none;
 	
 	}
